@@ -77,6 +77,16 @@ Or Else you can sign out with your existing account and sign in with `haxuser1` 
 - SOC Analyst Role: As a SOC Analyst, reviewing and analyzing these logs regularly is critical to detecting and responding to security incidents in real-time.
 - Threat Detection: By monitoring for multiple failed logins, account lockouts, and privilege escalations, SOC Analysts can quickly detect malicious activities on a network.
 
-## Submission:
-- Event ID 4624 (Successful Login): Submit a screenshot showing a successful login event from the Security logs.
-- Event ID 4625 (Failed Login): Submit a screenshot showing a failed login attempt event from the Security logs.
+## 📸 Submission
+
+Screenshots demonstrating successful log analysis for both successful and failed login attempts:
+
+Event ID 4624 (Successful Login): A screenshot showing a successful login event from the Security logs.
+
+![image alt](https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025/blob/e74d7e17ca4fb65d6fca37346c0d2cba58a14fcd/windows-securty-logs-4624.JPEG)
+
+
+
+Event ID 4625 (Failed Login): A screenshot showing a failed login attempt event (Event ID 4625) from the Security logs, explicitly highlighting the username, logon type, and source network address. 
+
+![image alt](https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025/blob/45038830a4e1d079a427b6b45100b10956b0be3a/Images/windows-securty-logs-4625.JPEG)
