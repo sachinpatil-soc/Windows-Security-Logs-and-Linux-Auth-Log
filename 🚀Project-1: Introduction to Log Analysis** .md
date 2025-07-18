@@ -1,7 +1,7 @@
 # 🚀Project-1: Introduction to Log Analysis**
 
 ## **Objective:**
-The objective of this lab is to introduce students to the basics of **log analysis** and demonstrate how logs from different systems can be collected, analyzed, and used for security monitoring. Students will learn how to generate simple logs on both Windows and Linux systems and how SOC Analysts use logs to detect security incidents.
+The objective of this lab is to learn basics of **log analysis** and demonstrate how logs from different systems can be collected, analyzed, and used for security monitoring. Will learn how to generate simple logs on both Windows and Linux systems and how SOC Analysts use logs to detect security incidents.
 
 ---
 ## **What is a Log?**
@@ -110,6 +110,10 @@ This command lists all local user accounts on the system, which could be used by
 
 - SOC Analyst Role: SOC Analysts use log analysis to detect threats, investigate incidents, and ensure system compliance.
 
-### Submission:
-- Windows Logs: Submit a screenshot of the log generated on the Windows machine.
+## 📸 Submission
+
+Submit a screenshot of execution (Event ID 4104) in Event Viewer.
+
+![image alt](https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025/blob/634641f522c0b9a0050713e97c112fe88bc2fe58/Images/Windows-powershell.JPEG) 
+
 
