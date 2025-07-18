@@ -112,3 +112,7 @@ Submit a screenshot of a syslog entry showing blocked network traffic due to a p
 - Targeted port
 - Timestamp
 
+
+
+![image alt](https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025/blob/b60284964a83a1231ecd8fc12e8698f2ef852046/Network-Based%20Attack%20Detection%20Using%20UFW.png)
+
