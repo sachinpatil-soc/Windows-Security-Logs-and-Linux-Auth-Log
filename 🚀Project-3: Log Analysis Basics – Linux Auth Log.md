@@ -106,4 +106,5 @@ sudo tail -f /var/log/auth.log
 ## 📸 Submission
 Submit a screenshot showing:
 - failed login entries from the same IP
-- Username attempted
+
+![image alt](https://github.com/sachinpatil-soc/30-Day-SOC-Analyst-Challenge-2025/blob/f9af7c7789b91891ce0520c3667c9fac87ea54e2/Linux-Auth-Failed-log.png) 
